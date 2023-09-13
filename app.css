@@ -1,8 +1,23 @@
-.input-name{
+.input-wrapper{
     padding:8px 0;
-    color:blue
+    color:#305982;
+    
+}
+
+.input{
+    border-radius: 8px;
+    border-width: 1px;
+    width:200px;
+    height:28px;
+    
 }
 
 .btn-submit{
     margin-top:8px;
+    color:#fbfbff;
+    background-color:#2d769a;
+    width:200px;
+    height:32px;
+    border-radius: 8px;
+    padding: 8px 20px;
 }
